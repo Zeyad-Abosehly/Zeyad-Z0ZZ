@@ -16,6 +16,8 @@ Hi 👋, I'm Zeyad Abosehly
   <a href="https://cplusplus.com/">
     <img src="https://skillicons.dev/icons?i=cpp" />
   </a>
-  <link href="//cdn.jsdelivr.net/npm/font-logos@1/assets/font-logos.css" rel="stylesheet">
-  <i class="fl-kali-linux"></i>
+  <a href="https://kali.org">
+    <img src="[https://skillicons.dev/icons?i=cpp](https://www.kali.org/docs/policy/kali-linux-trademark-policy/)https://www.kali.org/docs/policy/kali-linux-trademark-policy/" />
+  </a>
+
 </p>
