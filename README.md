@@ -17,7 +17,7 @@ Hi 👋, I'm Zeyad Abosehly
     <img src="https://skillicons.dev/icons?i=cpp" />
   </a>
   <a href="https://kali.org",width=".56" , hight=".26">
-    <img src=<img src="https://www.bing.com/images/search?view=detailV2&ccid=HIbFWwMC&id=874CCD40E0D8587D1860B391AD2FE2DAD4BB7D6E&thid=OIP.HIbFWwMCFmsXMmkZKNX_NwHaEK&mediaurl=https%3a%2f%2fswall.teahub.io%2fphotos%2fsmall%2f275-2750323_4-wallpapers-kali-logo-src-kali-linux-2019-4.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.1c86c55b0302166b1732691928d5ff37%3frik%3dbn271NriL62Rsw%26pid%3dImgRaw%26r%3d0&exph=400&expw=711&q=kali+linux+logo+4k&simid=608036819940412633&FORM=IRPRST&ck=45E4026861D3C80A22C7F80BBAC6D433&selectedIndex=6&itb=0">
+    <img src="https://camo.githubusercontent.com/77b5c45a598a37825c47acd854134e84c58ab461ee05eb829032ba305c85148c/68747470733a2f2f706c61792d6c682e676f6f676c6575736572636f6e74656e742e636f6d2f583233626e72344d37455145464e3236755f4961716164506a4767564f44697631385a55507377772d55576a415f6d37596b497951766877445333526866724468305755" data-canonical-src="https://play-lh.googleusercontent.com/X23bnr4M7EQEFN26u_IaqadPjGgVODiv18ZUPsww-UWjA_m7YkIyQvhwDS3RhfrDh0WU" style="max-width: 100%;width: 45px;width.25: ;height: 100%;">
   </a>
 
 </p>
