@@ -16,7 +16,6 @@ Hi 👋, I'm Zeyad Abosehly
   <a href="https://cplusplus.com/">
     <img src="https://skillicons.dev/icons?i=cpp" />
   </a>
-  <a href="https://www.kali.org/">
-    <i class="fl-kali-linux"></i>
-  </a>
+  <link href="//cdn.jsdelivr.net/npm/font-logos@1/assets/font-logos.css" rel="stylesheet">
+  <i class="fl-kali-linux"></i>
 </p>
