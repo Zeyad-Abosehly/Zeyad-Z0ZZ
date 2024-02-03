@@ -12,4 +12,8 @@ Hi 👋, I'm Zeyad Abosehly
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=kali,html,css,js,python,c++&perline=3)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vm,python,c++,c,html,css,js,kali" />
+  </a>
+</p>
