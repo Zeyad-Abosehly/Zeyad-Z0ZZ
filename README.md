@@ -17,7 +17,7 @@ Hi 👋, I'm Zeyad Abosehly
     <img src="https://skillicons.dev/icons?i=cpp" />
   </a>
   <a href="https://kali.org">
-    <img src="https://www.pngaaa.com/detail/562700" />
+    <img src="https://image.pngaaa.com/700/562700-middle.png" />
   </a>
 
 </p>
