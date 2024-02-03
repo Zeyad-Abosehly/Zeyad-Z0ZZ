@@ -6,11 +6,12 @@ Hi 👋, I'm Zeyad Abosehly
 
 🤝 I’m Competitive Programmer in Codeforces & Leetcode
 
-👯 I’m a mentor in SVU ACPC Community
+👯 I’m a mentor at SVU ACPC Community
 
+## 🚀 Tracker
 ![Zeyad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zeyad-Z0ZZ&show_icons=true&theme=transparent)
 
-## 🚀 technologies
+## 🚀 Technologies
 
 <p align="center">
   <a href="https://cplusplus.com/">
