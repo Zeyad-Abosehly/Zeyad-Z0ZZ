@@ -14,6 +14,6 @@ Hi 👋, I'm Zeyad Abosehly
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vm,python,c++,c,html,css,js,linux" />
+    <img src="https://skillicons.dev/icons?i=vm,python,cpp,c,html,css,js,linux" />
   </a>
 </p>
