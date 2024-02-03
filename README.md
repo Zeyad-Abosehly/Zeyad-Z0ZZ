@@ -16,8 +16,8 @@ Hi 👋, I'm Zeyad Abosehly
   <a href="https://cplusplus.com/">
     <img src="https://skillicons.dev/icons?i=cpp" />
   </a>
-  <a href="https://kali.org">
+<!--   <a href="https://kali.org">
     <img src="https://image.pngaaa.com/700/562700-middle.png" />
-  </a>
+  </a> -->
 
 </p>
