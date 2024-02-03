@@ -11,4 +11,3 @@ Hi 👋, I'm Zeyad Abosehly
 
 ![Zeyad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zeyad-Z0ZZ&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeyad-Z0ZZ&layout=donut-vertical)](https://github.com/Zeyad-Z0ZZ/github-readme-stats)
