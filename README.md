@@ -8,4 +8,4 @@ Hi 👋, I'm Zeyad Abosehly
 
 👯 I’m a mentor in SVU ACPC Community
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zeyad-Z0ZZ&show_icons=true&theme=transparent)
