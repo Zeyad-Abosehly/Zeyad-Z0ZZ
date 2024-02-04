@@ -18,40 +18,13 @@
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
             margin-bottom: 20px;
         }
-
-        .bold-blue {
-            font-weight: bold;
-            color: #007BFF;
-        }
-
-        .bold-red {
-            font-weight: bold;
-            color: #FF4500;
-        }
-
-        .bold-green {
-            font-weight: bold;
-            color: #28A745;
-        }
-
-        .bold-purple {
-            font-weight: bold;
-            color: #800080;
-        }
-    </style>
-
-
-<div id="sentence-container">
-    <p id="sentence">Loading...</p>
-</div>
-
 <script>
     // Array of sentences to display
     const sentences = [
-        { text: "Hi 👋, I'm Zeyad Abosehly", style: "bold-blue" },
-        { text: "An IT student at SVU 3rd year", style: "bold-blue" },
-        { text: "I'am a problem solver", style: "bold-blue" },
-        { text: "Now, I'm interested in CTF", style: "bold-blue" }
+        { text: "Hi 👋, I'm Zeyad Abosehly", style: "bold-blue:color: #007BFF;" },
+        { text: "An IT student at SVU 3rd year", style: "bold-blue:color: #007BFF;"},
+        { text: "I'am a problem solver", style: "bold-blue:color: #007BFF;"},
+        { text: "Now, I'm interested in CTF",  style: "bold-blue:color: #007BFF;"}
         // Add more sentences as needed
     ];
 
