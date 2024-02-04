@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zeyad Abosehly</h1>
-<h3 align="center">A passionate cybersecurity strudent </h3>
+<h3 align="center">A passionate cybersecurity student </h3>
 
 
 
