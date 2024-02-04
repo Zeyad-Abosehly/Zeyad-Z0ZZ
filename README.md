@@ -1,39 +1,27 @@
+<h1 align="center">Hi 👋, I'm Zeyad Abosehly</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zeyad-z0zz&label=Profile%20views&color=0e75b6&style=flat" alt="zeyad-z0zz" /> </p>
 
+- 🔭 i'm a IT student at **svu**
 
+- 🌱 I’m currently trying to go deeper in **cybersecurity**
 
-<h2 dir="auto"><a id="user-content--about-me" class="anchor" aria-hidden="true" tabindex="-1" href="#-about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/140204239cd0dda1fd4200544361abdcb4c11a71d02d3d5322894e15a16c7338/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f33662f37652f34652f33663765346566663763393665396665346238623462316666336637626462352e676966"><img src="https://camo.githubusercontent.com/140204239cd0dda1fd4200544361abdcb4c11a71d02d3d5322894e15a16c7338/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f33662f37652f34652f33663765346566663763393665396665346238623462316666336637626462352e676966" width="6.5%" data-animated-image="" data-canonical-src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" style="max-width: 100%;"></a> About me</h2>
+- 👯 I’m a Mentor at **SVU ACPC**
 
-🔭 I’m study in SVU Fci Universty
+- 🤝 I’m a **problem solver**
 
-🌱 I’m currently learning cybersecurty 
+- 📫 How to reach me **ziadabosehly2468@gmail.com**
 
-🤝 I’m Competitive Programmer in Codeforces & Leetcode
-
-👯 I’m a mentor at SVU ACPC Community
-
-## 🚀 Tracker
-![Zeyad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zeyad-Z0ZZ&show_icons=true&theme=transparent)
-
-## 🚀 Technologies
-
-<p align="center">
-  <a href="https://cplusplus.com/">
-    <img src="https://skillicons.dev/icons?i=cpp" />
-  </a>
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=css" />
-  </a>
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=html" />
-  </a>
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=js" />
-  </a>
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=c" />
-  </a>
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/zeyad-abosehly-98404a264/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zeyad-abosehly-98404a264/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/ziadabosehly2468" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/ziadabosehly2468" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/https://codeforces.com/profile/z0zz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/z0zz" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/z0zz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/z0zz/" height="30" width="40" /></a>
 </p>
 
-</body>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zeyad-z0zz&show_icons=true&locale=en" alt="zeyad-z0zz" /></p>
