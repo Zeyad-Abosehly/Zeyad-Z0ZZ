@@ -3,11 +3,11 @@
 
 
 
-- 🔭 i'm a IT student at **svu**
+- 🔭 i'm a IT student at **SVU**
 
-- 🌱 I’m currently trying to go deeper in **cybersecurity**
+- 🌱 I'm currently trying to go deeper in **cybersecurity**
 
-- 👯 I’m a Mentor at **SVU ACPC**
+- 👯 I’m a mentor at **SVU ACPC**
 
 - 🤝 I’m a **problem solver**
 
