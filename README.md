@@ -7,39 +7,6 @@
             background-color: #f0f0f0;
             color: #333;
         }
-
-        #sentence-container {
-            font-size: 1.5em;
-            padding: 20px;
-            background-color: #fff;
-            margin: auto;
-            max-width: 600px;
-            border-radius: 10px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
-            margin-bottom: 20px;
-        }
-
-        .bold-blue {
-            font-weight: bold;
-            color: #007BFF;
-        }
-
-        .bold-red {
-            font-weight: bold;
-            color: #FF4500;
-        }
-
-        .bold-green {
-            font-weight: bold;
-            color: #28A745;
-        }
-
-        .bold-purple {
-            font-weight: bold;
-            color: #800080;
-        }
-    </style>
-
   
   <div id="sentence-container">
     <p id="sentence">Loading...</p>
