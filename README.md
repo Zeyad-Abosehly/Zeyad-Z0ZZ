@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zeyad Abosehly</h1>
-<h3 align="center">/h3>
+<h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeyad-z0zz&label=Profile%20views&color=0e75b6&style=flat" alt="zeyad-z0zz" /> </p>
 
