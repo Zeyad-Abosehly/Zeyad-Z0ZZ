@@ -1,24 +1,4 @@
 
-    <style>
-        body {
-            font-family: 'Courier New', monospace;
-            text-align: center;
-            padding: 20px;
-            background-color: #f0f0f0;
-            color: #333;
-        }
-
-        #sentence-container {
-            font-size: 1.5em;
-            padding: 20px;
-            background-color: #fff;
-            margin: auto;
-            max-width: 600px;
-            border-radius: 10px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
-            margin-bottom: 20px;
-        }
-        </style>
 <script>
     const sentences = [
         { text: "Hi 👋, I'm Zeyad Abosehly", style: "bold-blue:color: #007BFF;" },
