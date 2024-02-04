@@ -8,7 +8,7 @@
       color: #333;
     }
 
-    #sentence-container {
+    .sentence-container {
       font-size: 1.5em;
       padding: 20px;
       background-color: #fff;
