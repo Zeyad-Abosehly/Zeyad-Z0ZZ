@@ -18,35 +18,32 @@
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
             margin-bottom: 20px;
         }
+        </style>
 <script>
-    // Array of sentences to display
     const sentences = [
         { text: "Hi 👋, I'm Zeyad Abosehly", style: "bold-blue:color: #007BFF;" },
         { text: "An IT student at SVU 3rd year", style: "bold-blue:color: #007BFF;"},
         { text: "I'am a problem solver", style: "bold-blue:color: #007BFF;"},
         { text: "Now, I'm interested in CTF",  style: "bold-blue:color: #007BFF;"}
-        // Add more sentences as needed
     ];
 
-    // Function to display sentences character by character
     function displaySentence(index, charIndex) {
         const sentenceElement = document.getElementById('sentence');
         const currentSentence = sentences[index];
 
         if (charIndex <= currentSentence.text.length) {
             sentenceElement.textContent = currentSentence.text.slice(0, charIndex);
-            setTimeout(() => displaySentence(index, charIndex + 1), 100); // Change 100 to the desired delay in milliseconds
+            setTimeout(() => displaySentence(index, charIndex + 1), 100); 
         } else {
             setTimeout(() => {
                 sentenceElement.textContent = "Loading...";
                 displaySentence((index + 1) % sentences.length, 0);
-            }, 1000); // Change 1000 to the desired delay between sentences in milliseconds
+            }, 1000); 
         }
 
         sentenceElement.className = currentSentence.style;
     }
 
-    // Start displaying sentences
     displaySentence(0, 0);
 </script>
 
