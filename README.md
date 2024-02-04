@@ -50,7 +50,6 @@
     displaySentence(0, 0);
   </script>
 
-</body>
 
 
 
@@ -88,3 +87,5 @@
   </a>
 
 </p>
+
+</body>
