@@ -2,7 +2,6 @@
 <h3 align="center">A passionate cybersecurity student </h3>
 
 
-
 - 🔭 i'm a IT student at **SVU**
 
 - 🌱 I'm currently trying to go deeper in **cybersecurity**
